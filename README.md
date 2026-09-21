@@ -259,4 +259,4 @@ This repository serves as the official landing page for MusicBee. The software i
 **Get the most recent version of MusicBee today!**
 
 ---
-**Last updated:** 2026-09-21 02:02:01 UTC
+**Last updated:** 2026-09-21 08:17:08 UTC
